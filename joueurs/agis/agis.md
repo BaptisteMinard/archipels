@@ -1,8 +1,8 @@
-# Agis Andradath du Ponant
+# Agis Andrathath du Ponant
 
 ![agis](/joueurs/agis/agis.jpg)
 
-Agis Andradath du Ponant dit Agis, pour éviter qu'on écorche la partie elfe de son nom. 
+Agis Andrathath du Ponant dit Agis, pour éviter qu'on écorche la partie elfe de son nom. 
 
 ## Passé
 Demi-elfe, issue d'un père humain et d'une mère elfe, il a grandit à bord du navire *pirate* qu'elle commandait. Après la disparition mystérieuse de sa mère, son ancien second *Galinndan* reprit le commandement. 

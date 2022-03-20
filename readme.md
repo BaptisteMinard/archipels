@@ -67,5 +67,5 @@ Une langue commune pour tous les peuples, pas forcément parlée de tous. l'**oc
 - [20/03/2022 - Le début d'une aventure](/sessions/20220320.md)
 
 ## Joueurs
-- [Agis Andradath du Ponant](/joueurs/agis/agis.md)
+- [Agis Andrathath du Ponant](/joueurs/agis/agis.md)
 - [Weryt Chope de Bronze](/joueurs/weryt/weryt.md)
