@@ -4,4 +4,6 @@ Appelé également sang des dieux, cette sustance coule au plus profond de la te
 
 Elle a été découverte par les [nains](/peuples/nains.md) qui en creusant sont tombés sur ce liquide visqueux et épais. 
 
-En analysant cette subsance les [nains](/peuples/nains.md) découvrirent qu'elle possédait des propriétés magique permettant de créer des objets incroyable
+En analysant cette subsance les [nains](/peuples/nains.md) découvrirent qu'elle possédait des propriétés magique permettant de créer des objets incroyable.
+
+Les [nains](/peuples/nains.md) sont convaincus qu'il existe une substance bien plus puissante que l'Eos, enfouie encore plus profondément

@@ -8,50 +8,64 @@ Dragon primordial a l'origine de tout
 - [Obera](/pantheon/obera.md)
 
 ### Les 5 principaux :
-- [Islaïon](/pantheon/islaion.md)
 - [Ceoris](/pantheon/ceoris.md)
-- [Vultor](/pantheon/vultor.md)
+- [Islaïon](/pantheon/islaion.md)
 - [Maereva](/pantheon/maereva.md)
 - [Nébée](/pantheon/nebee.md)
+- [Vultor](/pantheon/vultor.md)
 
 ### Leurs enfants
-- [Nadira](/pantheon/nadira.md)
 - [Arax](/pantheon/arax.md)
+- [Nadira](/pantheon/nadira.md)
 
 ### Les premiers de chaque race
-- [Lomelindiel](/pantheon/lomelindiel.md)
-- [Helmengrinn](/pantheon/helmengrinn.md)
+- [Bakor](/pantheon/bakor.md)
 - [Etharos](/pantheon/etharos.md)
+- [Helmengrinn](/pantheon/helmengrinn.md)
+- [Lomelindiel](/pantheon/lomelindiel.md)
 - [Primalia](/pantheon/primalia.md)
 - [Svar](/pantheon/svar.md)
-- [Bakor](/pantheon/bakor.md)
 
 ## Histoire
-1. [Les débuts](/histoire/debuts.md)
+- [Les débuts](/histoire/debuts.md)
+- [Les arkonautes](/histoire/arkonautes.md)
 
 ### Éléments en vrac de l'histoire
-- [Les arkonautes](/histoire/arkonautes.md)
-- [La Tarrasque](/histoire/tarrasque.md)
+- [Eos](/histoire/misc/eos.md)
 
 ## Personnages majeurs
-- [Jareg](/personnages/jareg.md)
-- [Uloq]()
 - [Eliphan](/personnages/eliphan.md)
-- [Prophète noir](/personnages/prophete_noir.md)
-- [Er-ful]()
 - [Enthaliad](/personnages/enthaliad.md)
+- [Er-ful](/personnages/er-ful.md)
+- [Jareg](/personnages/jareg.md)
+- [Uloq](/personnages/uloq.md)
+- [Prophète noir](/personnages/prophete_noir.md)
 
 ## Îles
+- [Crache-fer, l'île des nains](/iles/crache-fer/crache-fer.md)
+- [Fulmine](/iles/fulmine/fulmine.md)
 - [Vandrest](/iles/vandrest/vandrest.md)
-- [Quandionne](/iles/quandionne.md)
+- [Quandionne](/iles/quandionne/quandionne.md)
 
 ## Peuples
 Une langue commune pour tous les peuples, pas forcément parlée de tous. l'**océen**
 
-- [Nains](/peuples/nains.md)
 - [Elfes](/peuples/elfes.md)
-- [Halfelins](/peuples/halfelins.md)
 - [Gnome](/peuples/gnomes.md)
+- [Halfelins](/peuples/halfelins.md)
+- [Humain](/peuples/humains.md)
+- [Nains](/peuples/nains.md)
+- [Orcs](/peuples/orcs.md)
+
+## Bestiaire
+
+- [Dragons](/bestiaire/dragon.md)
+- [Dragons de bas](/bestiaire/dragon-bas.md)
+- [Tarrasque](/bestiaire/tarrasque.md)
 
 ## Sessions
+- [20/03/2022 - Le début d'une aventure](/sessions/20220320.md)
 
+## Joueurs
+- [Agis Andradath du Ponant](/joueurs/agis/agis.md)
+- [Weryt Chope de Bronze](/joueurs/weryt/weryt.md)

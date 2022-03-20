@@ -41,7 +41,15 @@ La puissance magie et si intense et tellement incontrolable que le continent fin
 
 Suite à ça, [Arax](/pantheon/arax.md) et [Nadira](/pantheon/nadira.md), son épouse, disparurent sans laisser de traces.
 
+Ses quatre généraux également :
+- [Uloq](/personnages/uloq.md)
+- [Eliphan](/personnages/eliphan.md)
+- [Prophète noir](/personnages/prophete_noir.md)
+- [Er-ful](/personnages/er-ful.md)
+
 ### Archipels 
 L'apparition de ces îles a engendrée de nombreuses complication. Notamment avec des collision d'îles et des îles qui disparaissaient / aparaissaient ou encore rentrait en collision entres elles.
 
 Des experts en calcul et études de ces mouvements ont alors progressivement fait leur apparition, les **insurrologues**
+
+Les iles étant en général assez petite ont rarement plus de 2 villes, afin de garder des terres cultivables.
