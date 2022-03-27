@@ -6,15 +6,15 @@ Au commencement, le monde était paisible. Les éspèces prospéraient. La terre
 
 ## De Arkos à Archipels
 
-### La conquête d'Enthiliad
+### La conquête d'Enthaliad
 
-Il y a 3000 ans, après la découverte de l'[Eos](/histoire/misc/eos.md) par les [nains](/peuples//nains.md), ceux-ci prospérerent en exploitant les propriétés de l'[Eos](/histoire/misc/eos.md) et attirèrent la convoitise de l'empereur humain [Enthiliad](/personnages/enthaliad.md). 
+Il y a 3000 ans, après la découverte de l'[Eos](/histoire/misc/eos.md) par les [nains](/peuples//nains.md), ceux-ci prospérerent en exploitant les propriétés de l'[Eos](/histoire/misc/eos.md) et attirèrent la convoitise de l'empereur humain [Enthaliad](/personnages/enthaliad.md). 
 
-[Enthaliad](/personnages/enthaliad.md) se dit que ça devait être une super bonne idée de marcher sur la cité naine avec pour objectif de piller le stock d'[Eos](/histoire/misc/eos.md) des [nains](/peuples/nains.md). 
+[Enthaliad](/personnages/enthaliad.md) se dit que ça devait être une super bonne idée de marcher sur la cité naine [Mériadon]() avec pour objectif de piller le stock d'[Eos](/histoire/misc/eos.md) des [nains](/peuples/nains.md). 
 
-Incapable d'y parvenir seul avec ses forces actuelles, il parvient à rallier les [elfes](/peuples/elfes.md) grâce à un subterfuge ???. 
+Incapable d'y parvenir seul avec ses forces actuelles, il parvient à rallier les [elfes](/peuples/elfes.md) grâce à un subterfuge ???. (Heranaël aurait abusé d'une princesse elfe, pour éviter la honte, les elfes ont officialisés leur union et sont devenus alliés)
 
-S'en suit une immense bataille sur la route pour la cité naine, ainsi qu'à la cité naine. Suite à ces batailles, la cité tombe et Enthiliad la pille de tout son [Eos](/histoire/misc/eos.md).
+S'en suit une immense bataille sur la route pour la cité naine, ainsi qu'à la cité naine. Suite à ces batailles, la cité tombe et Enthaliad la pille de tout son [Eos](/histoire/misc/eos.md).
 
 ### Le règne d'Enthaliad
 Numéro un sur l'[Eos](/histoire/misc/eos.md) l'empereur est quasi inarrétable et une coalition [humains](/peuples/humains.md) / [peaux vertes](/peuples/orcs.md) se met en place pour contrer la folie d'[Enthaliad](/personnages/enthaliad.md). 
