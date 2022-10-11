@@ -66,6 +66,10 @@ Une langue commune pour tous les peuples, pas forcément parlée de tous. l'**oc
 ## Sessions
 - [20/03/2022 - Le début d'une aventure](/sessions/20220320.md)
 - [27/03/2022 - Surveillance en effectif réduit](/sessions/20220327.md)
+- [01/05/2022 - A la poursuite des dragons, la Terre est ronde autant l'attendre ici](/sessions/20220501.md)
+- [15/05/2022 - L'embuscade des fourmis](/sessions/20220515.md)
+- [29/05/2022 - La défense du village](/sessions/202200529.md)
+- [09/10/2022 - En route vers Velenne](/sessions/20221009.md)
 
 ## Joueurs
 - [Agis Andrathath du Ponant](/joueurs/agis/agis.md)
