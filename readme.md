@@ -70,6 +70,7 @@ Une langue commune pour tous les peuples, pas forcément parlée de tous. l'**oc
 - [15/05/2022 - L'embuscade des fourmis](/sessions/20220515.md)
 - [29/05/2022 - La défense du village](/sessions/202200529.md)
 - [09/10/2022 - En route vers Velenne](/sessions/20221009.md)
+- [16/10/2022 - Tancred la victime](/sessions/20221016.md)
 
 ## Joueurs
 - [Agis Andrathath du Ponant](/joueurs/agis/agis.md)
