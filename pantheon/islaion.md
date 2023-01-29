@@ -1,4 +1,4 @@
-# Islaïon
+# Istlaïon
 
 Divinité en charge des océans.
 
